@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T13:19:29.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="iEEk3ZywLnZs3Eb9wz8U" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T13:22:27.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="9XKIAty903Jo_kMtSGc5" version="24.4.13" type="github">
   <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="OhcfFlmYus3YFWvyz_Md-5" value="&lt;div&gt;Advance snowflake SQL Functions: Three are lot of built in functions like seq, hashkey, metadata etc&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OhcfFlmYus3YFWvyz_Md-6" value="&lt;div&gt;Services offered by Cloud Layer:&lt;br&gt;Authentication, infrastructure management&lt;br&gt;Metadata management, Query parsing and optimization, Access Control&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="390" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
