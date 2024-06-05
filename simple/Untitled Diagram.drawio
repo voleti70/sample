@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T09:21:21.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="cKje95WzTC7KufCSoTJS" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T09:22:05.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="nF_NFgTLu_9RphiDLrwB" version="24.4.13" type="github">
   <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
     <mxGraphModel dx="1386" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -8,7 +8,10 @@
           <mxGeometry x="450" y="330" width="514.62" height="280" as="geometry" />
         </mxCell>
         <mxCell id="h3-Hk-i8CzjgJxV9RB0G-3" value="Snowflake Offers:&lt;div&gt;Standards: smaill&lt;/div&gt;&lt;div&gt;Enterprise: Failesafe, time travel&lt;/div&gt;&lt;div&gt;Business Critical: fincance data&amp;nbsp;&lt;/div&gt;&lt;div&gt;Virtual Private Snowflake: VPS: harwardware or data is not shared with any customer&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="270" height="70" as="geometry" />
+          <mxGeometry x="20" y="70" width="270" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="h3-Hk-i8CzjgJxV9RB0G-4" value="Snowpipe:&lt;br&gt;enables loading data from file, manually or automatticallt" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="290" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
